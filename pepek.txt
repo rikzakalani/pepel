@@ -1,1 +1,1 @@
-{"ip":"chicago01.hashvault.pro","name":"hashvault","port":80,"server":"duino-rest-1","success":true}
+{"ip":"131.153.56.98","name":"hashvault","port":80,"server":"duino-rest-1","success":true}
