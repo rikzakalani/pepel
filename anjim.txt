@@ -1,0 +1,1 @@
+{"ip":"51.159.175.20","name":"42-pool-2","port":6042,"server":"duino-rest-1","success":true}
